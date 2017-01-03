@@ -21,3 +21,7 @@ HTML内で`/target/scala-2.12/munimuni-fastopt.js`にできたソースファイ
 ```javascript
 Main().main()
 ```
+
+一応テスト用のhtml(test.html)とmuni.txtを`/src/resources`に用意してあるので、これを使ってください。
+
+なおXMLHttpRequestを使用しているため、サーバーかFirefoxで動かしてください。
